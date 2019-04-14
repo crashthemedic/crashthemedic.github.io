@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Born of Blood</h1>
+<p>An Ironsworn solo-RPG campaign diary</p>
+</body>
+</html>
